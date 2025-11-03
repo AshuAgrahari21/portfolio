@@ -1,5 +1,8 @@
 console.log("hellow world");
 alert("welcome..")
 
-console(Number.MAX_VALUE);
-console(Number.MIN_VALUE)
+let num=10;
+let str='ashu';
+
+console.log(num.__proto__);
+console.log(str.__proto__);
